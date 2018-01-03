@@ -6,6 +6,6 @@ The files contained in this folder will guide you throug the installation & conf
 
 You should follow the guide in the following order:
 
-1. [node-setup.md](/1.node-setup.md)
-2. [setup-vscode-editor.md](/2.setup-vscode-editor.md)
-3. [vscode-basic.md](/1.vscode-basics.md)
+1. [node-setup.md](1-node-setup.md)
+2. [setup-vscode-editor.md](2-setup-vscode-editor.md)
+3. [vscode-basic.md](3-vscode-basics.md)
