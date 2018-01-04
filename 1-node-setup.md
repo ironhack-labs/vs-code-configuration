@@ -38,8 +38,8 @@ In the terminal:
 ```
 $ xcode-select --install
 $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
-$ nvm install 8.9.3
-$ nvm use 8.9.3
+$ nvm install --lts
+$ nvm use --lts
 ```
 
 #### Ubuntu
@@ -50,8 +50,8 @@ In the terminal:
 $ apt-get update
 $ apt-get install build-essential libssl-dev
 $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
-$ nvm install 8.9.3
-$ nvm use 8.9.3
+$ nvm install --lts
+$ nvm use --lts
 ```
 
 And to test to make sure the installation is complete:
