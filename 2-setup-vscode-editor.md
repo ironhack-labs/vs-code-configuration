@@ -30,7 +30,7 @@ VSCode's site will detect our [OS](https://en.wikipedia.org/wiki/Operating_syste
 1) Extract the zip file you just downloaded in your "Desktop" folder.
 1) Drag the new Visual Studio Code application into your "Applications" folder.
 
-/////////////////////////////////// CHECK INSTALLATION ON UBUNTU
+
 ### Installing VSCode on Ubuntu
 
 1) Use the comand line to download the file:
