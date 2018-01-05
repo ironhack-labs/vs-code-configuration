@@ -58,7 +58,7 @@ And to test to make sure the installation is complete:
 
 ```
 $ node --version
-8.9.3
+8.9.4
 ```
 
 Once node is installed, you will have to install some additional packages that we will use in the bootcamp:
